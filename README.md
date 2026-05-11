@@ -2,7 +2,9 @@
 
 
 # Hi 👋 I'm Faijan
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=A020F0&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer;Building+SaaS+Platforms;React+%7C+Spring+Boot+%7C+Node.js" />
+</p>
 🚀 Full Stack Developer  
 💻 Building scalable SaaS platforms  
 🧠 Learning System Design & AI  

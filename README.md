@@ -39,19 +39,15 @@
 
 </p>
 ---
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faijan530&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faijan530&theme=github_dark" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faijan530&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faijan530&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=faijan530&theme=tokyonight&hide_border=true" />
-</p>
+
 ## 📌 Featured Projects
 
 ### 🧠 JASIQ Career OS

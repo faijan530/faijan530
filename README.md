@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=140&section=header"/>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/faijan530/faijan530/main/banner.png" width="100%" />
 </p>
@@ -18,6 +20,8 @@ Full Stack Developer • AI Engineer • SaaS Builder
 ⚡ Working on Career OS & Enterprise Platforms
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=120&section=footer"/>
+
 ---
 
 <h2 align="center">🚀 Tech Stack</h2>
@@ -32,7 +36,7 @@ Full Stack Developer • AI Engineer • SaaS Builder
   <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
 
-  <br/>
+  <br/><br/>
 
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933" />
@@ -40,14 +44,14 @@ Full Stack Developer • AI Engineer • SaaS Builder
   <img src="https://img.shields.io/badge/Spring_Boot-20232A?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
   <img src="https://img.shields.io/badge/Maven-20232A?style=for-the-badge&logo=apachemaven&logoColor=C71A36" />
 
-  <br/>
+  <br/><br/>
 
   <!-- Database -->
   <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248" />
   <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
 
-  <br/>
+  <br/><br/>
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman&logoColor=FF6C37" />
@@ -55,6 +59,8 @@ Full Stack Developer • AI Engineer • SaaS Builder
   <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white" />
 
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=120&section=footer"/>
 
 ---
 
@@ -70,6 +76,8 @@ Full Stack Developer • AI Engineer • SaaS Builder
   <img src="https://streak-stats.demolab.com?user=faijan530&theme=tokyonight&hide_border=true" />
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=120&section=footer"/>
+
 ---
 
 <h2 align="center">📌 Featured Projects</h2>
@@ -83,6 +91,8 @@ Advanced productivity & task management system
 ### 🏢 Campus Drive Platform
 Enterprise hiring and placement ecosystem
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=120&section=footer"/>
+
 ---
 
 <h2 align="center">🏆 GitHub Trophies</h2>
@@ -90,6 +100,8 @@ Enterprise hiring and placement ecosystem
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=faijan530&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=120&section=footer"/>
 
 ---
 
@@ -104,3 +116,5 @@ Enterprise hiring and placement ecosystem
     <img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=140&section=footer"/>

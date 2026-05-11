@@ -25,6 +25,11 @@ Tools:
 Git • Docker • Postman • Figma
 
 ---
+## 📊 GitHub Stats
+
+![Faijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faijan530&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faijan530&layout=compact&theme=tokyonight)
 
 ## 📌 Featured Projects
 
@@ -38,7 +43,5 @@ Advanced productivity & task management system
 Enterprise hiring and placement ecosystem
 
 ---
-
-## 📊 GitHub Stats
-
-![Faijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faijan530&show_icons=true&theme=tokyonight)
+### Trophy 
+![Trophy](https://github-profile-trophy.vercel.app/?username=faijan530&theme=tokyonight)

@@ -1,4 +1,4 @@
-<img width="440" height="440" alt="image" src="https://github.com/user-attachments/assets/24f046c7-9e23-4f19-a32d-4af0f1963ba3" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/24f046c7-9e23-4f19-a32d-4af0f1963ba3" />
 
 
 # Hi 👋 I'm Faijan

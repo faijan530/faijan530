@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋 I'm Faijan
 
-<!--
-**faijan530/faijan530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer  
+💻 Building scalable SaaS platforms  
+🧠 Learning System Design & AI  
+⚡ Working on Career OS & Enterprise Platforms
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+Frontend:
+React • TypeScript • Tailwind • Next.js
+
+Backend:
+Node.js • Express • Spring Boot • Firebase
+
+Database:
+MongoDB • PostgreSQL • Firestore
+
+Tools:
+Git • Docker • Postman • Figma
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 JASIQ Career OS
+AI-powered career platform for students and colleges
+
+### 📚 TaskMaster Pro
+Advanced productivity & task management system
+
+### 🏢 Campus Drive Platform
+Enterprise hiring and placement ecosystem
+
+---
+
+## 📊 GitHub Stats
+
+![Faijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faijan530&show_icons=true&theme=tokyonight)
